@@ -1,6 +1,6 @@
-# Iberian Robotics
+# Fifth Iberian Robotics Conference (ROBOT 2022)
 
-This repo showcasing the main results of the research paper Benchmark on real-time long-range aircraft detection for safe RPAS operations, plus some additional resources.
+This repo showcasing the main results of the research paper 'Benchmark on real-time long-range aircraft detection for safe RPAS operations', plus some additional resources.
 
 ## Benchmarking results
 
